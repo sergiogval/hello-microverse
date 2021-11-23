@@ -1,0 +1,15 @@
+h1 {
+  font-size: 3em;
+  color: red;
+  text-shadow: 3px 3px 0 #ccc,
+               -1px -1px 0 #fff,  
+                1px -1px 0 #fff,
+               -1px 1px 0 #fff,
+                1px 1px 0 #fff;
+  background-color: black;
+  background-image: -webkit-linear-gradient(top, #555, #333);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
