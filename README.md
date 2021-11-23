@@ -52,9 +52,9 @@ Feel free to run test using the linters libraries.
 ## Authors
 
 
-- GitHub: [@sergiogval(https://github.com/sergiogval/)]
-- Tweeter [@srgvldz(https://twitter.com/srgvldz)]
-- LinkedIn [@Sergio_Valadez(https://www.linkedin.com/in/sergio-valadez-282153216/)]
+- GitHub: [@sergiogval](https://github.com/sergiogval/)
+- Tweeter [@srgvldz](https://twitter.com/srgvldz)
+- LinkedIn [@Sergio_Valadez](https://www.linkedin.com/in/sergio-valadez-282153216/)
 
 ## 🤝 Contributing
 
