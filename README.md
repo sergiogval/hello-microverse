@@ -15,10 +15,6 @@ Additional description about the project and its features.
 - Major languages:  HTML, CSS & Markdown.
 - Technologies used: VScode and GitHub.
 
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
 
 # Getting Started
 
