@@ -20,57 +20,54 @@ Additional description about the project and its features.
 [Live Demo Link](https://livedemo.com)
 
 
-## Getting Started
+# Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+This project is done in order to have better knowledge regarding lintern, and how to use it to set agreements and improve the code in an organization.
 
 
 To get a local copy up and running follow these simple example steps.
 
+1. go to https://github.com/microverseinc/linters-config
+2. once there, look up for the proper repo. In this project we will be using HTML&CSS.
+3. Follow the instructions given, it has to be done properly, otherwise you problably get errors on your checkings.
+4. Is very IMPORTANT to run all the codes on the terminal as administrator. Local configurations may fail if you don't.
+5. Once you have finished with steps, just create an HTML & CSS file in order to test linterns.
+
 ### Prerequisites
+
+Any PC that runs a modern web browser and VScode.
 
 ### Setup
 
+You shuld have a github account linked to VScode.
+
 ### Install
+
+Runs over Github or VScode.
 
 ### Usage
 
+To checkout a given code and point out errors on it.
+
 ### Run tests
 
-### Deployment
-
-
+Feel free to run test using the linters libraries.
 
 ## Authors
 
-👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@sergiogval(https://github.com/sergiogval/)]
+- Tweeter [@srgvldz(https://twitter.com/srgvldz)]
+- LinkedIn [@Sergio_Valadez(https://www.linkedin.com/in/sergio-valadez-282153216/)]
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
