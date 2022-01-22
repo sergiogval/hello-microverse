@@ -344,7 +344,7 @@
     "ms": "^2.1.2",
     "mutationobserver-shim": "^0.3.7",
     "nan": "^2.15.0",
-    "nanoid": "^3.1.30",
+    "nanoid": "^3.1.31",
     "mute-stream": "^0.0.8",
     "napi-build-utils": "^1.0.2",
     "negotiator": "^0.6.2",
