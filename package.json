@@ -476,7 +476,7 @@
     "shebang-regex": "^1.0.0",
     "shimmer": "^1.2.1",
     "signal-exit": "^3.0.6",
-    "simple-get": "^3.1.0",
+    "simple-get": "^4.0.1",
     "simple-concat": "^1.0.1",
     "simple-swizzle": "^0.2.2",
     "slice-ansi": "^4.0.0",
