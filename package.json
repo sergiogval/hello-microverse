@@ -351,7 +351,7 @@
     "netmask": "^1.0.6",
     "node-abi": "^2.30.1",
     "nice-try": "^1.0.5",
-    "node-fetch": "^2.6.6",
+    "node-fetch": "^2.6.7",
     "node-releases": "^2.0.1",
     "node-ssllabs": "^1.1.3",
     "nopt": "^5.0.0",
