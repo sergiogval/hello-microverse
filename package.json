@@ -365,7 +365,7 @@
     "npm-registry-fetch": "^8.1.1",
     "npm-run-path": "^2.0.2",
     "npmlog": "^6.0.0",
-    "nth-check": "^1.0.2",
+    "nth-check": "^2.0.1",
     "number-is-nan": "^1.0.1",
     "num2fraction": "^1.2.2",
     "nwsapi": "^2.2.0",
