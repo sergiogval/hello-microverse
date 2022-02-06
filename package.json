@@ -362,7 +362,7 @@
     "normalize-selector": "^0.2.0",
     "normalize-url": "^4.5.1",
     "npm-package-arg": "^7.0.0",
-    "npm-registry-fetch": "^5.0.1",
+    "npm-registry-fetch": "^8.1.1",
     "npm-run-path": "^2.0.2",
     "npmlog": "^6.0.0",
     "nth-check": "^1.0.2",
