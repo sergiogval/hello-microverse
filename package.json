@@ -339,7 +339,7 @@
     "minipass-sized": "^1.0.3",
     "mkdirp": "^0.5.5",
     "mkdirp-classic": "^0.5.3",
-    "moment": "^2.29.1",
+    "moment": "^2.29.2",
     "move-concurrently": "^1.0.1",
     "ms": "^2.1.2",
     "mutationobserver-shim": "^0.3.7",
