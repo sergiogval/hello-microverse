@@ -209,7 +209,7 @@
     "gonzales-pe": "^4.3.0",
     "graceful-fs": "^4.2.8",
     "har-schema": "^2.0.0",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "har-validator": "^5.1.5",
     "has": "^1.0.3",
     "hard-rejection": "^2.1.0",
