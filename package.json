@@ -174,7 +174,7 @@
     "fastq": "^1.13.0",
     "fd-slicer": "^1.1.0",
     "figgy-pudding": "^3.5.2",
-    "file-type": "^12.4.2",
+    "file-type": "^16.5.4",
     "file-entry-cache": "^6.0.1",
     "file-uri-to-path": "^1.0.0",
     "file-url": "^3.0.0",
