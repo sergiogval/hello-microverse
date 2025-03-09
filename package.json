@@ -349,7 +349,7 @@
     "napi-build-utils": "^1.0.2",
     "negotiator": "^0.6.2",
     "netmask": "^2.0.1",
-    "node-abi": "^2.30.1",
+    "node-abi": "^4.0.0",
     "nice-try": "^1.0.5",
     "node-fetch": "^2.6.7",
     "node-releases": "^2.0.1",
