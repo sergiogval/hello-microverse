@@ -447,7 +447,7 @@
     "redent": "^3.0.0",
     "readdirp": "^3.6.0",
     "registry-auth-token": "^4.2.1",
-    "registry-url": "^5.1.0",
+    "registry-url": "^7.0.0",
     "remark": "^13.0.0",
     "remark-stringify": "^9.0.1",
     "remark-parse": "^9.0.0",
